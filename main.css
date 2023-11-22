@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    font-family: 'Roboto';
+    font-size: 14px;
+}
+
+.container {
+    display: flex;
+}
+
+header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+header h1 {
+    margin: 0 10px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    font-size: 40px;
+
+}
+
+header nav ul li {}
+
+header a { 
+
+ color: white;
+ font-size: ;
+
+}
